@@ -6,10 +6,9 @@ To use this application, you'll need to install the Inquirer and Jest packages.
 ## Usage
 This will prompt you to add your team members into difference categories.
 
-## Previews
-It should look something like this:
+## Preview
+It should look something like this when complete:
 ![Screen Shot 2022-03-28 at 9 23 09 PM](https://user-images.githubusercontent.com/92745804/160514156-7c295902-1055-453c-9665-81bf9e1577bf.png)
-
 
 
 ## Demo Video
